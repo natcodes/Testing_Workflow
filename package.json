@@ -1,0 +1,19 @@
+{
+  "name": "@natcodes/testing_workflow",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natcodes/Testing_Workflow.git"
+  },
+  "author": "natcodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natcodes/Testing_Workflow/issues"
+  },
+  "homepage": "https://github.com/natcodes/Testing_Workflow#readme"
+}
